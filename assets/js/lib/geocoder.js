@@ -2,7 +2,6 @@
 var fs            = require('fs');
 var destinations  = require('../destinations.json');
 var outputFile    = './assets/js/locations.json';
-var _             = require('underscore');
 
 // geocoder
 var geocoderProvider  = 'openstreetmap',
@@ -18,7 +17,7 @@ var locations,
     location_lng;//,
     // geo_response;
 
-  locations = _.map(destinations, function(destination){
+locations = destinations.map(function(destination){
 
   id++;
   location_name     = destination.split("(")[0].trim();
