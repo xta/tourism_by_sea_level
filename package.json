@@ -24,6 +24,7 @@
   "homepage": "https://github.com/xta/tourism_by_sea_level",
   "devDependencies": {
     "gulp": "^3.8.6",
-    "node-geocoder": "^2.6.0"
+    "node-geocoder": "^2.6.0",
+    "request": "^2.42.0"
   }
 }
