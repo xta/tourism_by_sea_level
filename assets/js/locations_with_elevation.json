@@ -1,0 +1,1000 @@
+[
+    {
+        "id": 1,
+        "name": "Orlando",
+        "country": "USA",
+        "lat": "28.5421175",
+        "lng": "-81.3790462",
+        "lat_lng": "28.5421175,-81.3790462",
+        "elevation_meters": 31.96048736572266,
+        "elevation_resolution": 0.5964969992637634
+    },
+    {
+        "id": 2,
+        "name": "Sydney",
+        "country": "Australia",
+        "lat": "-33.8548157",
+        "lng": "151.2164539",
+        "lat_lng": "-33.8548157,151.2164539",
+        "elevation_meters": 3.5,
+        "elevation_resolution": 4.771975994110107
+    },
+    {
+        "id": 3,
+        "name": "London",
+        "country": "England",
+        "lat": "51.5072759",
+        "lng": "-0.1276597",
+        "lat_lng": "51.5072759,-0.1276597",
+        "elevation_meters": 20.28743934631348,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 4,
+        "name": "Paris",
+        "country": "France",
+        "lat": "48.8565056",
+        "lng": "2.3521334",
+        "lat_lng": "48.8565056,2.3521334",
+        "elevation_meters": 32.78895568847656,
+        "elevation_resolution": 9.543951988220215
+    },
+    {
+        "id": 5,
+        "name": "Venice",
+        "country": "Italy",
+        "lat": "45.4384143",
+        "lng": "12.318564",
+        "lat_lng": "45.4384143,12.318564",
+        "elevation_meters": 2.987406492233276,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 6,
+        "name": "Manhattan",
+        "country": "USA",
+        "lat": "40.7902778",
+        "lng": "-73.9597222",
+        "lat_lng": "40.7902778,-73.9597222",
+        "elevation_meters": 26.3559741973877,
+        "elevation_resolution": 19.08790397644043
+    },
+    {
+        "id": 7,
+        "name": "Cape Town",
+        "country": "South Africa",
+        "lat": "-33.9289049",
+        "lng": "18.4172485",
+        "lat_lng": "-33.9289049,18.4172485",
+        "elevation_meters": 30.5150032043457,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 8,
+        "name": "Las Vegas",
+        "country": "USA",
+        "lat": "36.145204",
+        "lng": "-115.1611806",
+        "lat_lng": "36.145204,-115.1611806",
+        "elevation_meters": 623.8850708007812,
+        "elevation_resolution": 1.192993998527527
+    },
+    {
+        "id": 9,
+        "name": "Rome",
+        "country": "Italy",
+        "lat": "41.8932575",
+        "lng": "12.4830619",
+        "lat_lng": "41.8932575,12.4830619",
+        "elevation_meters": 37.38041305541992,
+        "elevation_resolution": 4.771975994110107
+    },
+    {
+        "id": 10,
+        "name": "Great Barrier Reef",
+        "country": "Australia",
+        "lat": "-19.1013672",
+        "lng": "146.9558555",
+        "lat_lng": "-19.1013672,146.9558555",
+        "elevation_meters": -18.43469047546387,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 11,
+        "name": "Maldives",
+        "country": "Asia",
+        "lat": "4.2218417",
+        "lng": "73.4867968",
+        "lat_lng": "4.2218417,73.4867968",
+        "elevation_meters": -12.75611019134521,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 12,
+        "name": "Hawaii",
+        "country": "USA",
+        "lat": "21.2160437",
+        "lng": "-157.975203",
+        "lat_lng": "21.2160437,-157.975203",
+        "elevation_meters": -496.1843566894531,
+        "elevation_resolution": 38.17580795288086
+    },
+    {
+        "id": 13,
+        "name": "South Island",
+        "country": "New Zealand Region",
+        "lat": "54.52476",
+        "lng": "-5.58005562327896",
+        "lat_lng": "54.52476,-5.58005562327896",
+        "elevation_meters": 0.5628586411476135,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 14,
+        "name": "Grand Canyon",
+        "country": "USA",
+        "lat": "36.0965604",
+        "lng": "-112.0984941",
+        "lat_lng": "36.0965604,-112.0984941",
+        "elevation_meters": 772.3329467773438,
+        "elevation_resolution": 19.08790397644043
+    },
+    {
+        "id": 15,
+        "name": "Niagara Falls",
+        "country": "Canada",
+        "lat": "43.099685",
+        "lng": "-79.0305635122431",
+        "lat_lng": "43.099685,-79.0305635122431",
+        "elevation_meters": 177,
+        "elevation_resolution": 38.17580795288086
+    },
+    {
+        "id": 16,
+        "name": "San Diego",
+        "country": "USA",
+        "lat": "32.7469869",
+        "lng": "-117.21177",
+        "lat_lng": "32.7469869,-117.21177",
+        "elevation_meters": 15.49726009368896,
+        "elevation_resolution": 4.771975994110107
+    },
+    {
+        "id": 17,
+        "name": "San Francisco",
+        "country": "USA",
+        "lat": "37.7789601",
+        "lng": "-122.419199",
+        "lat_lng": "37.7789601,-122.419199",
+        "elevation_meters": 17.29827308654785,
+        "elevation_resolution": 0.5964969992637634
+    },
+    {
+        "id": 18,
+        "name": "Rio De Janeiro",
+        "country": "Brazil",
+        "lat": "-22.9112163",
+        "lng": "-43.2093781",
+        "lat_lng": "-22.9112163,-43.2093781",
+        "elevation_meters": 8.31859016418457,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 19,
+        "name": "Los Angeles",
+        "country": "USA",
+        "lat": "34.0536781",
+        "lng": "-118.2427025",
+        "lat_lng": "34.0536781,-118.2427025",
+        "elevation_meters": 91.42938232421875,
+        "elevation_resolution": 4.771975994110107
+    },
+    {
+        "id": 20,
+        "name": "Dubai",
+        "country": "UAE",
+        "lat": "25.2683521",
+        "lng": "55.2961962",
+        "lat_lng": "25.2683521,55.2961962",
+        "elevation_meters": 7.455630302429199,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 21,
+        "name": "Auckland",
+        "country": "New Zealand",
+        "lat": "-36.50775635",
+        "lng": "174.540946482123",
+        "lat_lng": "-36.50775635,174.540946482123",
+        "elevation_meters": 134.2263946533203,
+        "elevation_resolution": 19.08790397644043
+    },
+    {
+        "id": 22,
+        "name": "Singapore",
+        "country": "Asia",
+        "lat": "1.2904527",
+        "lng": "103.852038",
+        "lat_lng": "1.2904527,103.852038",
+        "elevation_meters": 7.715917587280273,
+        "elevation_resolution": 76.35161590576172
+    },
+    {
+        "id": 23,
+        "name": "Seychelles",
+        "country": "Africa",
+        "lat": "-4.6574977",
+        "lng": "55.4540146",
+        "lat_lng": "-4.6574977,55.4540146",
+        "elevation_meters": 416.0602111816406,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 24,
+        "name": "Bali",
+        "country": "Indonesia",
+        "lat": "48.8565056",
+        "lng": "2.3521334",
+        "lat_lng": "48.8565056,2.3521334",
+        "elevation_meters": 32.78895568847656,
+        "elevation_resolution": 9.543951988220215
+    },
+    {
+        "id": 25,
+        "name": "Durban",
+        "country": "South Africa",
+        "lat": "-29.8618254",
+        "lng": "31.0099095",
+        "lat_lng": "-29.8618254,31.0099095",
+        "elevation_meters": 5.899909496307373,
+        "elevation_resolution": 2.385987997055054
+    },
+    {
+        "id": 26,
+        "name": "Bangkok",
+        "country": "Thailand",
+        "lat": "13.5859271",
+        "lng": "100.416084040605",
+        "lat_lng": "13.5859271,100.416084040605",
+        "elevation_meters": 3.550352334976196,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 27,
+        "name": "Whitsundays",
+        "country": "Australia",
+        "lat": "-19.5714303",
+        "lng": "149.2695225",
+        "lat_lng": "-19.5714303,149.2695225",
+        "elevation_meters": -23.88263511657715,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 28,
+        "name": "Iceland",
+        "country": "Europe",
+        "lat": "64.9841821",
+        "lng": "-18.1059013",
+        "lat_lng": "64.9841821,-18.1059013",
+        "elevation_meters": 859.0360107421875,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 29,
+        "name": "Costa Del Sol",
+        "country": "Spain",
+        "lat": "-46.4597251",
+        "lng": "-67.4976851919231",
+        "lat_lng": "-46.4597251,-67.4976851919231",
+        "elevation_meters": 12.97014808654785,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 30,
+        "name": "Cairns",
+        "country": "Australia",
+        "lat": "-16.9204963",
+        "lng": "145.7719011",
+        "lat_lng": "-16.9204963,145.7719011",
+        "elevation_meters": 3.503815174102783,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 31,
+        "name": "Antigua and Barbuda",
+        "country": "Caribbean",
+        "lat": "17.079128",
+        "lng": "-61.8222516",
+        "lat_lng": "17.079128,-61.8222516",
+        "elevation_meters": 58.70925521850586,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 32,
+        "name": "Melbourne",
+        "country": "Australia",
+        "lat": "-37.8142176",
+        "lng": "144.9631608",
+        "lat_lng": "-37.8142176,144.9631608",
+        "elevation_meters": 25.28874588012695,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 33,
+        "name": "Mallorca",
+        "country": "Spain",
+        "lat": "39.6594496",
+        "lng": "2.986239",
+        "lat_lng": "39.6594496,2.986239",
+        "elevation_meters": 97.96097564697266,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 34,
+        "name": "Giza",
+        "country": "Egypt",
+        "lat": "30.0170059",
+        "lng": "31.2134513",
+        "lat_lng": "30.0170059,31.2134513",
+        "elevation_meters": 26.75376319885254,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 35,
+        "name": "Lake District",
+        "country": "England",
+        "lat": "50.97469505",
+        "lng": "-3.88644264680126",
+        "lat_lng": "50.97469505,-3.88644264680126",
+        "elevation_meters": 147.8337554931641,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 36,
+        "name": "Barbados",
+        "country": "Caribbean",
+        "lat": "13.1500331",
+        "lng": "-59.5250305",
+        "lat_lng": "13.1500331,-59.5250305",
+        "elevation_meters": 176.9019470214844,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 37,
+        "name": "Abu Simbel",
+        "country": "Egypt",
+        "lat": "22.366667",
+        "lng": "31.633333",
+        "lat_lng": "22.366667,31.633333",
+        "elevation_meters": 181.5765686035156,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 38,
+        "name": "Bahamas",
+        "country": "Caribbean",
+        "lat": "24.7736546",
+        "lng": "-78.0000547",
+        "lat_lng": "24.7736546,-78.0000547",
+        "elevation_meters": 6.750492095947266,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 39,
+        "name": "Sharm El Sheikh",
+        "country": "Egypt",
+        "lat": "27.8669082",
+        "lng": "34.3014551",
+        "lat_lng": "27.8669082,34.3014551",
+        "elevation_meters": 26.93869400024414,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 40,
+        "name": "New York",
+        "country": "USA",
+        "lat": "40.7305991",
+        "lng": "-73.9865812",
+        "lat_lng": "40.7305991,-73.9865812",
+        "elevation_meters": 9.450465202331543,
+        "elevation_resolution": 76.35161590576172
+    },
+    {
+        "id": 41,
+        "name": "Madrid",
+        "country": "Spain",
+        "lat": "40.5248319",
+        "lng": "-3.77156277545181",
+        "lat_lng": "40.5248319,-3.77156277545181",
+        "elevation_meters": 657.4962768554688,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 42,
+        "name": "Zermatt",
+        "country": "Switzerland",
+        "lat": "46.0221645",
+        "lng": "7.7496219",
+        "lat_lng": "46.0221645,7.7496219",
+        "elevation_meters": 1607.533447265625,
+        "elevation_resolution": 19.08790397644043
+    },
+    {
+        "id": 43,
+        "name": "Algarve",
+        "country": "Portugal",
+        "lat": "37.24443875",
+        "lng": "-8.15048564656655",
+        "lat_lng": "37.24443875,-8.15048564656655",
+        "elevation_meters": 337.7731018066406,
+        "elevation_resolution": 76.35161590576172
+    },
+    {
+        "id": 44,
+        "name": "Victoria Falls",
+        "country": "Zimbabwe",
+        "lat": "-17.9241575",
+        "lng": "25.8547212",
+        "lat_lng": "-17.9241575,25.8547212",
+        "elevation_meters": 886,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 45,
+        "name": "Marbella",
+        "country": "Spain",
+        "lat": "36.5109076",
+        "lng": "-4.8808438",
+        "lat_lng": "36.5109076,-4.8808438",
+        "elevation_meters": 30.2085018157959,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 46,
+        "name": "Masai Mara",
+        "country": "Kenya",
+        "lat": "49.2361073",
+        "lng": "28.4633257",
+        "lat_lng": "49.2361073,28.4633257",
+        "elevation_meters": 275.3193054199219,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 47,
+        "name": "Bora Bora",
+        "country": "French Polynesia",
+        "lat": "-16.5043142",
+        "lng": "-151.736646127604",
+        "lat_lng": "-16.5043142,-151.736646127604",
+        "elevation_meters": 183.9608154296875,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 48,
+        "name": "Chichén Itzá",
+        "country": "Mexico",
+        "lat": "20.68290105",
+        "lng": "-88.5687172135116",
+        "lat_lng": "20.68290105,-88.5687172135116",
+        "elevation_meters": 37.70281982421875,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 49,
+        "name": "Florence",
+        "country": "Italy",
+        "lat": "43.7698712",
+        "lng": "11.2555757",
+        "lat_lng": "43.7698712,11.2555757",
+        "elevation_meters": 50.17719268798828,
+        "elevation_resolution": 1.192993998527527
+    },
+    {
+        "id": 50,
+        "name": "Disney World",
+        "country": "Florida, USA",
+        "lat": "28.38261315",
+        "lng": "-81.5617092967507",
+        "lat_lng": "28.38261315,-81.5617092967507",
+        "elevation_meters": 28.69099998474121,
+        "elevation_resolution": 19.08790397644043
+    },
+    {
+        "id": 51,
+        "name": "Puerto Banus",
+        "country": "Spain",
+        "lat": "36.4884728",
+        "lng": "-4.9531833",
+        "lat_lng": "36.4884728,-4.9531833",
+        "elevation_meters": 8.82637882232666,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 52,
+        "name": "Toronto",
+        "country": "Canada",
+        "lat": "43.6529206",
+        "lng": "-79.3849008",
+        "lat_lng": "43.6529206,-79.3849008",
+        "elevation_meters": 91.47843170166016,
+        "elevation_resolution": 1.192993998527527
+    },
+    {
+        "id": 53,
+        "name": "Agra",
+        "country": "India",
+        "lat": "27.02317485",
+        "lng": "78.0925527",
+        "lat_lng": "27.02317485,78.0925527",
+        "elevation_meters": 167.3508148193359,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 54,
+        "name": "Great Wall",
+        "country": "China",
+        "lat": "33.5960359",
+        "lng": "-82.0903487",
+        "lat_lng": "33.5960359,-82.0903487",
+        "elevation_meters": 79.04297637939453,
+        "elevation_resolution": 19.08790397644043
+    },
+    {
+        "id": 55,
+        "name": "Edinburgh",
+        "country": "Scotland",
+        "lat": "55.9483399",
+        "lng": "-3.1932723",
+        "lat_lng": "55.9483399,-3.1932723",
+        "elevation_meters": 89.35233306884766,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 56,
+        "name": "Menorca",
+        "country": "Spain",
+        "lat": "39.94918695",
+        "lng": "4.05295155687162",
+        "lat_lng": "39.94918695,4.05295155687162",
+        "elevation_meters": 96.57772064208984,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 57,
+        "name": "Monaco",
+        "country": "Europe",
+        "lat": "43.73834615",
+        "lng": "7.42420847143475",
+        "lat_lng": "43.73834615,7.42420847143475",
+        "elevation_meters": 26.12944412231445,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 58,
+        "name": "Luxor",
+        "country": "Egypt",
+        "lat": "25.7020955",
+        "lng": "32.6471859",
+        "lat_lng": "25.7020955,32.6471859",
+        "elevation_meters": 86.25569915771484,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 59,
+        "name": "Hong Kong",
+        "country": "China",
+        "lat": "22.2793278",
+        "lng": "114.1628131",
+        "lat_lng": "22.2793278,114.1628131",
+        "elevation_meters": 69.79156494140625,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 60,
+        "name": "Banff",
+        "country": "Canada",
+        "lat": "51.1777781",
+        "lng": "-115.5682504",
+        "lat_lng": "51.1777781,-115.5682504",
+        "elevation_meters": 1400,
+        "elevation_resolution": 38.17580795288086
+    },
+    {
+        "id": 61,
+        "name": "Sorrento",
+        "country": "Italy",
+        "lat": "40.624906",
+        "lng": "14.374836",
+        "lat_lng": "40.624906,14.374836",
+        "elevation_meters": 62.38490676879883,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 62,
+        "name": "Key West",
+        "country": "USA",
+        "lat": "38.0573603",
+        "lng": "-78.4408438",
+        "lat_lng": "38.0573603,-78.4408438",
+        "elevation_meters": 123.8075485229492,
+        "elevation_resolution": 9.543951988220215
+    },
+    {
+        "id": 63,
+        "name": "Cancún",
+        "country": "Mexico",
+        "lat": "21.1708906",
+        "lng": "-86.8403165",
+        "lat_lng": "21.1708906,-86.8403165",
+        "elevation_meters": 10.65585899353027,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 64,
+        "name": "Koh Samui",
+        "country": "Thailand",
+        "lat": "53.478348",
+        "lng": "-2.242025",
+        "lat_lng": "53.478348,-2.242025",
+        "elevation_meters": 51.97842407226562,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 65,
+        "name": "Nice",
+        "country": "France",
+        "lat": "43.7009358",
+        "lng": "7.2683912",
+        "lat_lng": "43.7009358,7.2683912",
+        "elevation_meters": 10.10063552856445,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 66,
+        "name": "Machu Picchu",
+        "country": "Peru",
+        "lat": "-13.16441865",
+        "lng": "-72.544543331484",
+        "lat_lng": "-13.16441865,-72.544543331484",
+        "elevation_meters": 2438.975830078125,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 67,
+        "name": "Yosemite National Park",
+        "country": "USA",
+        "lat": "37.8406798",
+        "lng": "-119.516626269942",
+        "lat_lng": "37.8406798,-119.516626269942",
+        "elevation_meters": 3058.988525390625,
+        "elevation_resolution": 9.543951988220215
+    },
+    {
+        "id": 68,
+        "name": "Oahu",
+        "country": "USA",
+        "lat": "21.48349555",
+        "lng": "-158.03640389298",
+        "lat_lng": "21.48349555,-158.03640389298",
+        "elevation_meters": 255.2261657714844,
+        "elevation_resolution": 19.08790397644043
+    },
+    {
+        "id": 69,
+        "name": "Florida Keys",
+        "country": "USA",
+        "lat": "24.6670875",
+        "lng": "-81.5831421",
+        "lat_lng": "24.6670875,-81.5831421",
+        "elevation_meters": -0.4761125147342682,
+        "elevation_resolution": 76.35161590576172
+    },
+    {
+        "id": 70,
+        "name": "Guam",
+        "country": "Pacific Islands",
+        "lat": "13.444257",
+        "lng": "144.733794182666",
+        "lat_lng": "13.444257,144.733794182666",
+        "elevation_meters": 67.5864028930664,
+        "elevation_resolution": 19.08790397644043
+    },
+    {
+        "id": 71,
+        "name": "Dublin",
+        "country": "Ireland",
+        "lat": "53.3494299",
+        "lng": "-6.2600969",
+        "lat_lng": "53.3494299,-6.2600969",
+        "elevation_meters": 5.001070976257324,
+        "elevation_resolution": 4.771975994110107
+    },
+    {
+        "id": 72,
+        "name": "Vancouver",
+        "country": "Canada",
+        "lat": "49.2608944",
+        "lng": "-123.1139383",
+        "lat_lng": "49.2608944,-123.1139383",
+        "elevation_meters": 43.65213012695312,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 73,
+        "name": "Ayers Rock",
+        "country": "Australia",
+        "lat": "-25.344857",
+        "lng": "131.0325171",
+        "lat_lng": "-25.344857,131.0325171",
+        "elevation_meters": 860.2184448242188,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 74,
+        "name": "La Digue",
+        "country": "Seychelles",
+        "lat": "-4.3651638",
+        "lng": "55.8411963",
+        "lat_lng": "-4.3651638,55.8411963",
+        "elevation_meters": 211.3453674316406,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 75,
+        "name": "Cayman Islands",
+        "country": "Caribbean",
+        "lat": "19.5417212",
+        "lng": "-80.5667132",
+        "lat_lng": "19.5417212,-80.5667132",
+        "elevation_meters": -1829.516967773438,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 76,
+        "name": "Naples",
+        "country": "Italy",
+        "lat": "40.8506962",
+        "lng": "14.2463172",
+        "lat_lng": "40.8506962,14.2463172",
+        "elevation_meters": 86.22736358642578,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 77,
+        "name": "St Pete Beach",
+        "country": "USA",
+        "lat": "",
+        "lng": "",
+        "lat_lng": ","
+    },
+    {
+        "id": 78,
+        "name": "Amritsar",
+        "country": "India",
+        "lat": "31.5659187",
+        "lng": "74.9784548171488",
+        "lat_lng": "31.5659187,74.9784548171488",
+        "elevation_meters": 228.56787109375,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 79,
+        "name": "Barcelona",
+        "country": "Catalonia, Spain",
+        "lat": "41.3870186",
+        "lng": "2.1700437",
+        "lat_lng": "41.3870186,2.1700437",
+        "elevation_meters": 18.39316558837891,
+        "elevation_resolution": 1.192993998527527
+    },
+    {
+        "id": 80,
+        "name": "Ibiza",
+        "country": "Spain",
+        "lat": "38.9743504",
+        "lng": "1.41971928403696",
+        "lat_lng": "38.9743504,1.41971928403696",
+        "elevation_meters": 76.8162841796875,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 81,
+        "name": "Adelaide",
+        "country": "Australia",
+        "lat": "-34.9274284",
+        "lng": "138.599899",
+        "lat_lng": "-34.9274284,138.599899",
+        "elevation_meters": 45.02137756347656,
+        "elevation_resolution": 38.17580795288086
+    },
+    {
+        "id": 82,
+        "name": "Benidorm",
+        "country": "Costa Blanca, Spain",
+        "lat": "38.5406255",
+        "lng": "-0.1290929",
+        "lat_lng": "38.5406255,-0.1290929",
+        "elevation_meters": 25.44775772094727,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 83,
+        "name": "Airlie Beach",
+        "country": "Australia",
+        "lat": "-20.2694109",
+        "lng": "148.718164",
+        "lat_lng": "-20.2694109,148.718164",
+        "elevation_meters": 4.952235698699951,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 84,
+        "name": "Buenos Aires",
+        "country": "Argentina",
+        "lat": "-34.612869",
+        "lng": "-58.4459789",
+        "lat_lng": "-34.612869,-58.4459789",
+        "elevation_meters": 22.93319320678711,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 85,
+        "name": "Prague",
+        "country": "Czech Republic",
+        "lat": "50.084819",
+        "lng": "14.4177247",
+        "lat_lng": "50.084819,14.4177247",
+        "elevation_meters": 189.6999969482422,
+        "elevation_resolution": 2.385987997055054
+    },
+    {
+        "id": 86,
+        "name": "Aberdare National Park",
+        "country": "Kenya",
+        "lat": "-0.41025125",
+        "lng": "36.7124507989394",
+        "lat_lng": "-0.41025125,36.7124507989394",
+        "elevation_meters": 3161.52978515625,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 87,
+        "name": "Cuba",
+        "country": "Caribbean",
+        "lat": "23.0131338",
+        "lng": "-80.8328748",
+        "lat_lng": "23.0131338,-80.8328748",
+        "elevation_meters": 14.10102653503418,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 88,
+        "name": "Paphos",
+        "country": "Cyprus",
+        "lat": "34.7725973",
+        "lng": "32.425852401363",
+        "lat_lng": "34.7725973,32.425852401363",
+        "elevation_meters": 77.89906311035156,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 89,
+        "name": "Valley of the Kings",
+        "country": "Egypt",
+        "lat": "25.7402345",
+        "lng": "32.6019784963873",
+        "lat_lng": "25.7402345,32.6019784963873",
+        "elevation_meters": 185.7845764160156,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 90,
+        "name": "Galapagos Islands",
+        "country": "Ecuador",
+        "lat": "34.1833889",
+        "lng": "-119.2258909",
+        "lat_lng": "34.1833889,-119.2258909",
+        "elevation_meters": 3.95565938949585,
+        "elevation_resolution": 19.08790397644043
+    },
+    {
+        "id": 91,
+        "name": "Isle of Man",
+        "country": "Europe",
+        "lat": "54.1936805",
+        "lng": "-4.5591148",
+        "lat_lng": "54.1936805,-4.5591148",
+        "elevation_meters": 133.6461944580078,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 92,
+        "name": "Kusadasi",
+        "country": "Turkey",
+        "lat": "37.7816804",
+        "lng": "27.31318025299",
+        "lat_lng": "37.7816804,27.31318025299",
+        "elevation_meters": 179.5578002929688,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 93,
+        "name": "Chamonix",
+        "country": "France",
+        "lat": "45.9246705",
+        "lng": "6.8727506",
+        "lat_lng": "45.9246705,6.8727506",
+        "elevation_meters": 1035.876708984375,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 94,
+        "name": "Beijing",
+        "country": "China",
+        "lat": "40.2505379",
+        "lng": "116.625088590652",
+        "lat_lng": "40.2505379,116.625088590652",
+        "elevation_meters": 39.22957229614258,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 95,
+        "name": "Cannes",
+        "country": "France",
+        "lat": "43.5512076",
+        "lng": "7.0126946",
+        "lat_lng": "43.5512076,7.0126946",
+        "elevation_meters": 3.261213302612305,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 96,
+        "name": "Amsterdam",
+        "country": "Netherlands",
+        "lat": "52.3710088",
+        "lng": "4.9001115",
+        "lat_lng": "52.3710088,4.9001115",
+        "elevation_meters": 7.220459461212158,
+        "elevation_resolution": 19.08790397644043
+    },
+    {
+        "id": 97,
+        "name": "Bodrum",
+        "country": "Turkey",
+        "lat": "37.06675515",
+        "lng": "27.4845214725571",
+        "lat_lng": "37.06675515,27.4845214725571",
+        "elevation_meters": 314.3915405273438,
+        "elevation_resolution": 610.8129272460938
+    },
+    {
+        "id": 98,
+        "name": "Courchevel",
+        "country": "France",
+        "lat": "37.64633795",
+        "lng": "-118.997267415506",
+        "lat_lng": "37.64633795,-118.997267415506",
+        "elevation_meters": 2526.54345703125,
+        "elevation_resolution": 9.543951988220215
+    },
+    {
+        "id": 99,
+        "name": "Berlin",
+        "country": "Germany",
+        "lat": "52.5170365",
+        "lng": "13.3888599",
+        "lat_lng": "52.5170365,13.3888599",
+        "elevation_meters": 43.07269668579102,
+        "elevation_resolution": 152.7032318115234
+    },
+    {
+        "id": 100,
+        "name": "Corfu",
+        "country": "Greece",
+        "lat": "42.9600595",
+        "lng": "-78.4055767",
+        "lat_lng": "42.9600595,-78.4055767",
+        "elevation_meters": 262.900390625,
+        "elevation_resolution": 19.08790397644043
+    }
+]
