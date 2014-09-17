@@ -1,69 +1,62 @@
 // file system & helpers
-var fs              = require('fs');
-var locations_path  = "./assets/js/locations.json";
-var locations       = require('../locations.json');
+var fs            = require('fs');
+var locations     = require('../locations_raw.json');
+var outputFile    = './assets/js/locations_geocoded.json';
+var delay         = 1000;
+var results       = [];
 
 // geocoder
 var geocoderProvider  = 'openstreetmap',
     httpAdapter       = 'http',
     geocoder          = require('node-geocoder').getGeocoder(geocoderProvider, httpAdapter);
 
-// internal geocoder states
-var location_id,
-    location_name,
-    geocoder_first_response,
-    location_lat,
-    location_lng;
-
-// functions
-var save_lat_lng = function(id, lat, lng) {
-  fs.readFile(locations_path, 'utf8', function (err, data) {
-    if (err) {
-      return console.log(err);
-    }
-    update_file(data, id, lat, lng);
-  });
-};
-
-// Note: this will update the file in place
-var update_file = function(read_locations, id, lat, lng) {
-
-  var read_locations = JSON.parse(read_locations);
-
-  read_locations.forEach(function(location){
-    if(location.id === id) {
-      location.lat = lat;
-      location.lng = lng;
-    }
-  });
-
-  writer(read_locations);
-};
-
-var writer = function(data_to_write) {
-  fs.writeFile(locations_path, JSON.stringify(data_to_write, null, 4), function(err) {
-    if(err) {
-      console.log(err);
-    } else {
-      console.log("Updated JSON saved at " + locations_path);
-    }
-  });
-};
-
-var geocode_file = function() {
-
-  locations.forEach(function(location){
+function geocodeItem(location, callback) {
+  try {
+    console.log('Geocoding Location \''+ location['id'] +'\'');
 
     geocoder.geocode(location.name, function(err, res) {
       if(err) {
         console.log(err);
       } else {
-        console.log("Now saving lat & lng for id: " + location.id);
-        save_lat_lng(location.id, res[0].latitude, res[0].longitude);
+
+        if (Object.keys(res).length > 0) {
+          console.log("Now saving lat & lng for id: " + location.id);
+          location['lat'] = res[0]['latitude'];
+          location['lng'] = res[0]['longitude'];
+        } else {
+          console.log("Lat & lng unavailable for id: " + location.id);
+        }
+        setTimeout(function() { callback(location); }, delay);
       }
     });
 
-  });
-};
+  }
+  catch (e) {
+    console.log(e);
+  }
+}
 
-geocode_file();
+function final() {
+  console.log('--- --- Geocoding Complete --- ---');
+
+  fs.writeFile(outputFile, JSON.stringify(results, null, 4), function(err) {
+    if(err) {
+      console.log(err);
+    } else {
+      console.log("JSON saved to " + outputFile);
+    }
+  });
+}
+
+function geocodeLocations(item) {
+  if(item) {
+    geocodeItem( item, function(result) {
+      results.push(result);
+      return geocodeLocations(locations.shift());
+    });
+  } else {
+    return final();
+  }
+}
+
+geocodeLocations(locations.shift());

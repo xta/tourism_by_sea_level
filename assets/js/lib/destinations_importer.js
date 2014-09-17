@@ -1,7 +1,7 @@
 // file system & helpers
 var fs            = require('fs');
 var destinations  = require('../destinations.json');
-var outputFile    = './assets/js/locations.json';
+var outputFile    = './assets/js/locations_raw.json';
 
 // internal geocoder states
 var locations,

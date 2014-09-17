@@ -2,10 +2,10 @@
 
 ## Development
 
-    // create locations.json
+    // create locations_raw.json using destinations.json
     node assets/js/lib/destinations_importer.js
 
-    // update locations.json with GPS coords
+    // create locations_geocoded.json with GPS coords
     node assets/js/lib/geocoder.js
 
     // create locations_with_elevation.json with elevation info

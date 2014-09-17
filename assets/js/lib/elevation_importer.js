@@ -1,7 +1,7 @@
 // file system & helpers
 var fs            = require('fs');
 var request       = require("request");
-var locations     = require('../locations.json');
+var locations     = require('../locations_geocoded.json');
 var outputFile    = './assets/js/locations_with_elevation.json';
 var delay         = 1000;
 var results       = [];
