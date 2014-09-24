@@ -10,3 +10,6 @@
 
     // create locations_with_elevation.json with elevation info
     node assets/js/src/lib/elevation_importer.js 
+
+    // create sorted_locations_with_elevation.json
+    node assets/js/src/lib/sorter.js 

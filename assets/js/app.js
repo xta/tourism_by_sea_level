@@ -1,5 +1,5 @@
 var $         = require('jquery');
-var locations = require('./src/locations_with_elevation.json');
+var locations = require('./src/sorted_locations.json');
 
 $(function() {
 
@@ -9,8 +9,6 @@ $(function() {
       location,
       elevation,
       $list = $("ul#locations");
-
-  locations.sort(function(a,b) { return parseFloat(a.elevation_meters) - parseFloat(b.elevation_meters); } );
 
   $list.empty();
 
