@@ -1,0 +1,32 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #e7e7de;
+}
+
+#wrap {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+li {
+  list-style-type: none;
+  font-size: 2em;
+  padding: .5em;
+  margin: 0;
+}
+
+li.active {
+  background-color: #fff;
+}
+
+#map {
+  position: fixed;
+  top: 50%;
+  bottom: 10%;
+  left: 50%;
+  width: 60%;
+  transform: translate(-50%, 0);
+  border: 20px solid #fff;
+  background-color: #e7e7de;
+}
