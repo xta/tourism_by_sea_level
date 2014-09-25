@@ -12,6 +12,7 @@ var rename      = require('gulp-rename');
 var source      = require('vinyl-source-stream'); // makes browserify bundle compatible with gulp
 var streamify   = require('gulp-streamify');
 var browserify  = require('browserify');
+var livereload  = require('gulp-livereload');
 
 // Lint Tasks
 gulp.task('lint-app', function() {
@@ -27,7 +28,8 @@ gulp.task('scripts', function() {
     return browserify('./assets/js/app.js').bundle()
         .pipe(source('all.min.js'))
         .pipe(streamify(uglify()))
-        .pipe(gulp.dest('./public/'));
+        .pipe(gulp.dest('./public/'))
+        .pipe(livereload());
 });
 
 // Concatenate CSS
@@ -37,11 +39,20 @@ gulp.task('styles', function() {
         './assets/css/app.css'
         ])
     .pipe(concat('all.css'))
-    .pipe(gulp.dest('public'));
+    .pipe(gulp.dest('public'))
+    .pipe(livereload());
 });
 
 // Watch Files For Changes
 gulp.task('watch', function() {
+    var server = livereload();
+
+    gulp.watch(['assets/css/**/*', 'assets/js/app.js', 'index.html'],
+        function(event) {
+            return gulp.src(event.path).pipe(livereload());
+        }
+    );
+
     gulp.watch('assets/css/*.css', ['styles']);
     gulp.watch('assets/js/*.js', ['lint', 'scripts']);
 });

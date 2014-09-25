@@ -2,6 +2,9 @@
 
 ## Development
 
+    // setup dependencies
+    npm install
+
     // build assets for site (index.html)
     gulp
 
