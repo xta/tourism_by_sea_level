@@ -53,7 +53,10 @@ $(function() {
     var $current = current_location();
     $active_location.removeClass('active');
     $current.addClass('active');
-    set_map_location($current.data('latlng'));
+
+    if ($active_location.data('latlng') !== $current.data('latlng')) {
+      set_map_location($current.data('latlng'));
+    }
   };
 
   $(window).scroll(function() {
